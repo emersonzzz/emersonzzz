@@ -1,4 +1,21 @@
-<h1 align="center">Hey there, I'm Emerson Reinhard 👋</h1>
-<h3 align="center">A passionate game and web developer from The United States! 🥞</h3>
+# hey, i'm emerson reinhard 👋
+### a game and web developer from the united states!
+<hr>
 
-<img align="right" alt="alohaz' banner gif" width="400" src="banner.gif">
+<img align="right" alt="Boat Banner" width="600" src="banner.gif">
+
+#### 🌱 my background
+- 📍 the united states
+- 🌴 avid traveler
+- 💻 game and web developer
+- 🌊 competitive swimmer
+
+#### 🥞 my languages
+- 🥐 python
+- 🧇 html
+- 🍩 c++
+
+#### 🦈 my projects
+- 🏐 beach blitz
+- 🏄‍♂️ aruba devs
+- 💫 around the bonfire
